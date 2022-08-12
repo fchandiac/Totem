@@ -1,0 +1,8 @@
+{
+    "password":"corp1234",
+    "database":"dep_corp",
+    "user_name":"root",
+    "host":"192.168.1.111",
+    "dialect":"mysql",
+    "data_port":3001
+}
